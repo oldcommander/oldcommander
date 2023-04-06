@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ahmet
 #### I am Software Engineer
-![I am Software Engineer](https://pbs.twimg.com/profile_banners/1641203860017381384/1680741673/1080x360)
+![I am Software Engineer]((https://pbs.twimg.com/profile_banners/1641203860017381384/1680742699/1080x360))
 
 I have been working in software development since 2019. During this
 time, I worked on topics such as desktop application development, web
