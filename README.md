@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ahmet
 #### I am Software Engineer
-![I am Software Engineer]((https://pbs.twimg.com/profile_banners/1641203860017381384/1680742699/1080x360))
+![I am Software Engineer](https://pbs.twimg.com/profile_banners/1641203860017381384/1680742699/1080x360)
 
 I have been working in software development since 2019. During this
 time, I worked on topics such as desktop application development, web
@@ -25,8 +25,7 @@ Skills: C# / ASP.NET CORE / JS / HTML / CSS / JAVA / PYTHON / C++ / MSSQL / MYSQ
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oldcommander)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oldcommander&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=oldcommander)  
+ 
 
 ![GitHub metrics](https://metrics.lecoq.io/oldcommander)  
 
